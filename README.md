@@ -14,7 +14,7 @@ The project allows you to handle the student record in an efficient way using me
 - 📋 show all students
 🔍 Find student by id
 - ❌ Delete student by ID
-- 💾 Data stored as text file (`Aymane.txt`)
+- 💾 Data stored as text file (`shut.txt`)
 
 ---
 
